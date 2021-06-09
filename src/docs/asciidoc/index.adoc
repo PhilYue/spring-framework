@@ -1,6 +1,4 @@
 = Spring Framework Documentation
-:doc-root: https://docs.spring.io
-:api-spring-framework: {doc-root}/spring-framework/docs/{spring-version}/javadoc-api/org/springframework
 
 ****
 _What's New_, _Upgrade Notes_, _Supported Versions_, and other topics,
